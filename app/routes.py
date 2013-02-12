@@ -1,11 +1,3 @@
-#
-#from webapp.controllers import main
-#
-## Flask routes
-#def dispatch():
-#    return [
-#        ('/', main.Index)
-#    ]
 
 from flask import Flask, render_template
 
